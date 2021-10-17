@@ -1,5 +1,5 @@
 
-#alculator 
+# Tip Calculator 
 
 ## Meng-Jin Lin
 
